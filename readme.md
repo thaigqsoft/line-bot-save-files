@@ -14,7 +14,8 @@
        $channel_secret = "xxxxx";
     ?>
     
-
+สร้าง โฟลเดอร์  upload ไฟล์จะถูกเซฟไว้ที่นี่ แล้วสั่ง
+chmod -R 777 upload
 
 ขอให้โชคดี:
 
